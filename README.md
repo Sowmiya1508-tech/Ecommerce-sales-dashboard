@@ -35,5 +35,7 @@ It provides insights into revenue, orders, profit, and customer segments for an 
 
 ## 📸 Dashboard Preview
 ![Dashboard Screenshot](screenshot.png)
+<img width="1890" height="878" alt="Screenshot" src="https://github.com/user-attachments/assets/fff7ce62-528c-4061-8ff0-1aa5b5684f3d" />
 
 ---
+
